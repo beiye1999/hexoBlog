@@ -103,9 +103,10 @@ ignore:
 ## Themes: https://hexo.io/themes/
 theme: bamboo
 
+base: /
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/beiye1999/hexoBlog.git
+  repo: https://github.com/beiyeya/beiyeya.github.io.git
   branch: main
